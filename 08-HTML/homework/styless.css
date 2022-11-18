@@ -1,0 +1,19 @@
+.divClass h1 {
+    color: aqua;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 300px;
+    background-color: bisque;
+    padding: 50px;
+    border-color: black;
+    border-style: outset;
+}
+#spanId {
+    margin: 50px;
+    font-size: 18px;
+
+}
